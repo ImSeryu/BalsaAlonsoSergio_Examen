@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author seryu
+ * @author SergioBalsa
  */
 public class PedidosDaoTest {
     

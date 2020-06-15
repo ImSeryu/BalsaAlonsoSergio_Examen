@@ -18,7 +18,7 @@ import java.sql.Types;
 
 /**
  *
- * @author alvar
+ * @author SergioBalsa
  */
 public class PedidosDao {
 
